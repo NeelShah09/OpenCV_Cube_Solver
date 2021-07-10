@@ -1,6 +1,6 @@
 # OpenCV Cube Solver
 
-This is aprogram that can scab the cube faces un different lighting conditions, solves it using Two phase Algorithm and then narrates the solution screen.
+This is aprogram that can scan the cube faces in different lighting conditions, solves it using Two phase Algorithm and then narrates the solution on screen.
 There are two modes in the program viz. Calibration Mode and Solving Mode.
 Calibration Mode is used to calibrate the colours which may get affected due to ambient lighting conditions.
 Solving Mode works in two steps, scaning the cube faces and narrating the genrated solution.
